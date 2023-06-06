@@ -1,0 +1,23 @@
+Yogendra Pandit Burkul yogendra 
+1. Quantity field should be by default 1
+2. when user click on stock it should show buy ,sell,view chart and other details
+3. Wishlist-->add/remove
+4. while selecting order if we select CNC (cash and carry ) order ,we can hold the stock for long term -->manual
+5. while Selecting order,if we select MIS(margine intraday sqare) it should  automatically exit at 3-20 pm.-->manual
+6. verify market closed error msg
+7. if you try to place order ,but you don't have fund in your account then it should display insufficient fund msg
+8. if you forget to logout account,at end of every day it should automatically logged out  --manual/automation
+7. when we placed the order by selecting market price ,price field should be disabled
+9. when we placed limit order price field should be editable
+10. Price field should accept value in multiple of 0.05 (eg 55.05,55,56.15 etc accepted) (55.06,55.07 not accepted)
+11. after placing order ,in orders tab it will show Executed/pending/rejected orders
+ 1. valid  2. invalid 
+ 12 when we click on AMO (after market order) option, we should able to placed order after market timing-->manual
+13. after clicking on user id tab it should show customer details. 
+14. in options quantity field should accept in Lott eg ( eg. 25 for banknifty,75 for nifty, depends on stock)
+15. while adding fund in your demat  account ,after clicking on add fund button , different payment options should enabled
+16. when we click on withdraw button , withdrawal amount field should be enabled and proceed button should be disabled.
+17. when we click on recent withdrawal option,it should show our withdrawal activities
+18. when we click on chart it should show different formats of chart (eg 1d,5d,1M etc ) d- day,M- month
+19. application should show same price of stock as per NSE or bse ,if we open an application in different platforms or machines, mobile etc  --->CT
+20. if we placed withdrawal request, ammount should be credit next day before 1 pm (if no hollyday) otherwise it should credit next of 

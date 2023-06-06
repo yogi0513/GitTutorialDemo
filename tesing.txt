@@ -1,0 +1,5 @@
+hi hello please close this file as i don't know what to 
+do after this creating the file 
+manual testing
+automation testing
+selenium java will be used for automation
